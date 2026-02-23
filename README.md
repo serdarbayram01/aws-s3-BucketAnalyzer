@@ -174,7 +174,3 @@ Aşağıda `your-aws-profile_2026-02-23.csv` raporunun tablo görünümü yer al
 
 *Public Block: BlockPublicAcls, IgnorePublicAcls, BlockPublicPolicy, RestrictPublicBuckets (tümü True)*
 
-## İlgili Projeler
-
-- `02-S3_cdn` - S3 bucket ve CDN Terraform modülü
-- `03-CloudFront CDN` - CloudFront CDN yapılandırması
